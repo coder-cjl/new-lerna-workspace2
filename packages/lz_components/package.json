@@ -1,10 +1,10 @@
 {
   "name": "lz_components",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "lei <cjlsire@126.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/lz_components.js",
   "directories": {
     "lib": "lib",
@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "node ./__tests__/lz_components.test.js"
-  }
+  },
+  "gitHead": "b1778e456bed1d96690efbed77b1f8dccc416f4c"
 }
