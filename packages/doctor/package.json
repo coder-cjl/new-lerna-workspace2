@@ -1,6 +1,6 @@
 {
   "name": "doctor",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": true,
   "description": "",
   "templateInfo": {
@@ -51,7 +51,7 @@
     "@tarojs/runtime": "4.0.7",
     "@tarojs/shared": "4.0.7",
     "@tarojs/taro": "4.0.7",
-    "lz_components_test": "^0.0.3",
+    "lz_components_test": "0.0.4",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },

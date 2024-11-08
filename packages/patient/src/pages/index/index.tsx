@@ -1,7 +1,7 @@
 import {View, Text, Button} from '@tarojs/components'
 import './index.scss'
 import {Component} from "react";
-import { test_log } from 'lz_components';
+import { test_log } from 'lz_components_test';
 
 export default class Index extends Component {
 
